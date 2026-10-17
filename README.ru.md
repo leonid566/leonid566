@@ -13,11 +13,23 @@
 
 ### Избранные проекты
 
-| Проект | Задача | Технологии |
-| --- | --- | --- |
-| [ATELIER BOOKING](https://github.com/leonid566/atelier-booking-demo) | Бот и Mini App для записи: вымышленный каталог, расписание и браузерная демоверсия | Python, FastAPI, aiogram, SQLAlchemy, React, TypeScript |
-| [FINCORE](https://github.com/leonid566/financial-model-demo) | Excel-модель с вымышленными данными, ДДС, ОПиУ, планированием и анализом рисков | Формулы, таблицы и диаграммы Excel |
-| [LEO STUDIO Portfolio](https://leo-studio.onrender.com/) | Сайт-портфолио с закрытым управлением контентом | React, TypeScript, Vite, Node.js, PostgreSQL |
+#### [ATELIER BOOKING](https://github.com/leonid566/atelier-booking-demo)
+
+Бот и Mini App для записи: вымышленный каталог, расписание и браузерная демоверсия.
+
+Python · FastAPI · aiogram · SQLAlchemy · React · TypeScript
+
+#### [FINCORE](https://github.com/leonid566/financial-model-demo)
+
+Excel-модель с вымышленными данными, ДДС, ОПиУ, планированием и анализом рисков.
+
+Формулы Excel · Таблицы · Диаграммы
+
+#### [LEO STUDIO Portfolio](https://leo-studio.onrender.com/)
+
+Сайт-портфолио с закрытым управлением контентом.
+
+React · TypeScript · Vite · Node.js · PostgreSQL
 
 Исходники сайта недвижимости остаются приватными. У публичных демопроектов есть собственные инструкции, результаты проверок и ограничения.
 

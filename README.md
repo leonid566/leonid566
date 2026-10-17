@@ -13,11 +13,23 @@ I build websites, Telegram bots and Mini Apps, Python automation, and Excel tool
 
 ### Featured projects
 
-| Project | Focus | Technologies |
-| --- | --- | --- |
-| [ATELIER BOOKING](https://github.com/leonid566/atelier-booking-demo) | Booking bot and Mini App with a fictional service catalog, scheduling and a browser demo | Python, FastAPI, aiogram, SQLAlchemy, React, TypeScript |
-| [FINCORE](https://github.com/leonid566/financial-model-demo) | Excel business model with fictional data, cash flow, profit and loss, planning and risk views | Excel formulas, tables and charts |
-| [LEO STUDIO Portfolio](https://leo-studio.onrender.com/) | Portfolio website with private content management | React, TypeScript, Vite, Node.js, PostgreSQL |
+#### [ATELIER BOOKING](https://github.com/leonid566/atelier-booking-demo)
+
+Booking bot and Mini App with a fictional service catalog, scheduling and a browser demo.
+
+Python · FastAPI · aiogram · SQLAlchemy · React · TypeScript
+
+#### [FINCORE](https://github.com/leonid566/financial-model-demo)
+
+Excel business model with fictional data, cash flow, profit and loss, planning and risk views.
+
+Excel formulas · Tables · Charts
+
+#### [LEO STUDIO Portfolio](https://leo-studio.onrender.com/)
+
+Portfolio website with private content management.
+
+React · TypeScript · Vite · Node.js · PostgreSQL
 
 The real estate website is maintained privately. Public demos describe their setup, verification and known limitations in their own READMEs.
 
